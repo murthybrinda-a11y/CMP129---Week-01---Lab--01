@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Brinda C Murthy
+- Week: 1
+- Lab: 1 INterestEarned File 
+- Date: 9/4/26
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [--] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -44,10 +44,10 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: I now get how to do printfs better.
 
 ## Summary
 
 Provide any additional information about your use of AI for this lab.
 
-Response:
+Response: No AI tool was used
